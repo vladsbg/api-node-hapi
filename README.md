@@ -1,1 +1,1 @@
-# api-node-hapi-strategy
+# api-node-hapi

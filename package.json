@@ -1,0 +1,28 @@
+{
+	"name": "api-node-hapi-strategy",
+	"version": "1.0.0",
+	"description": "API em Node.js usando Hapi.js",
+	"scripts": {
+		"start": "node ./src/index.js"
+	},
+	"dependencies": {
+		"boom": "^7.3.0",
+		"dotenv": "^8.2.0",
+		"hapi": "^18.1.0",
+		"joi": "^14.3.1",
+		"mongoose": "^5.6.2"
+	},
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/vladsbg/api-node-hapi-strategy.git"
+	},
+	"keywords": [],
+	"author": "Vlads Barcelos Godoi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/vladsbg/api-node-hapi-strategy/issues"
+	},
+	"homepage": "https://github.com/vladsbg/api-node-hapi-strategy#readme",
+	"devDependencies": {}
+}
